@@ -1,0 +1,19 @@
+.sert1{
+	color: #fff;
+display: inline-block;
+vertical-align: top;
+font-size: 20px;
+margin-left: 100px;
+-webkit-perspective: 500;
+-moz-perspective: 500;
+-ms-perspective: 500;
+-o-perspective: 500;
+-icab-perspective: 500;
+perspective: 500;
+margin-top: 20px;
+z-index: 3;
+}
+.face{
+	width: 100% !important;
+	float: none !important;
+}
